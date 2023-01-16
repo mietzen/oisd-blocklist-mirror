@@ -1,4 +1,4 @@
-name: Updated block list
+name: Updated blocklist
 # Update Docker Base Images, append changelogs and bump addon patch version
 on: 
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  Dependabot:
+  Updated_blocklist:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -23,7 +23,7 @@ jobs:
           if ! [ -z "$(git status --porcelain)" ]; then 
             git config --local user.email "action@github.com"
             git config --local user.name "GitHub Action Bot"
-            git commit -a -m "Updated block list"
+            git commit -a -m "Updated blocklist"
             echo "change=yes" >> $GITHUB_OUTPUT
           else
             echo "Nothing to commit!"
@@ -36,7 +36,7 @@ jobs:
         with:
           token: ${{ secrets.PUSH_TOKEN }}
           delete-branch: true
-          title: '[Github Action Bot] Updated block list'
+          title: '[Github Action Bot] Updated blocklist'
           assignees: mietzen
           reviewers: mietzen
           labels: |
