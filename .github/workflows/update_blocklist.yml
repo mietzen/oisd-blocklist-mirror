@@ -1,0 +1,50 @@
+name: Updated block list
+# Update Docker Base Images, append changelogs and bump addon patch version
+on: 
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  Dependabot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Get latest blocklist
+        run: |
+          curl --connect-timeout 600 \
+            --max-time 600 \
+            --retry 15 \
+            --retry-delay 600 \
+            https://dbl.oisd.nl/ > ./oisd_dbl_full.txt
+      - name: Commit changes
+        id: commit
+        run: |
+          if ! [ -z "$(git status --porcelain)" ]; then 
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action Bot"
+            git commit -a -m "Updated block list"
+            echo "change=yes" >> $GITHUB_OUTPUT
+          else
+            echo "Nothing to commit!"
+            echo "change=no" >> $GITHUB_OUTPUT
+          fi
+      - name: Create Pull Request
+        if: steps.commit.outputs.change == 'yes'
+        id: pr
+        uses: peter-evans/create-pull-request@v4
+        with:
+          token: ${{ secrets.PUSH_TOKEN }}
+          delete-branch: true
+          title: '[Github Action Bot] Updated block list'
+          assignees: mietzen
+          reviewers: mietzen
+          labels: |
+            automated pr
+      - name: Automerge if possible
+        if: steps.commit.outputs.change == 'yes' && steps.pr.outputs.pull-request-operation == 'created'
+        uses: peter-evans/enable-pull-request-automerge@v2
+        with:
+          token: ${{ secrets.PUSH_TOKEN }}
+          pull-request-number: ${{ steps.pr.outputs.pull-request-number }}
+          merge-method: squash
