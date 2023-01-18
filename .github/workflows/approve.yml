@@ -6,4 +6,4 @@ jobs:
   approve:
     runs-on: ubuntu-latest
     steps:
-      - run: sleep 20
+      - run: sleep 1
