@@ -39,11 +39,10 @@ jobs:
           title: '[Github Action Bot] Updated blocklist'
           commit-message: Updated blocklist
           committer: GitHub Action Bot <action@github.com>
-          author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
-          signoff: false
+          author: GitHub Action Bot <action@github.com>
           branch: auto-update
+          branch-suffix: timestamp
           assignees: mietzen
-          reviewers: mietzen
           labels: |
             automated pr
             update
