@@ -1,0 +1,8 @@
+name: Dummy Approve
+on: pull_request
+
+jobs:
+  approve:
+    runs-on: ubuntu-latest
+    steps:
+      - run: sleep 20
