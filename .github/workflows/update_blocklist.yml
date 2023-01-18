@@ -17,13 +17,20 @@ jobs:
             --retry 15 \
             --retry-delay 600 \
             https://dbl.oisd.nl/ > ./oisd_dbl_full.txt
+          
+          curl --connect-timeout 600 \
+            --max-time 600 \
+            --retry 15 \
+            --retry-delay 600 \
+            https://abp.oisd.nl// > ./oisd_adb_full.txt
       - name: Commit changes
         id: commit
         run: |
           if ! [ -z "$(git status --porcelain)" ]; then 
             git config --local user.email "action@github.com"
             git config --local user.name "GitHub Action Bot"
-            git commit -a -m "Updated blocklist"
+            git add .
+            git commit -m "Updated blocklist"
             echo "change=yes" >> $GITHUB_OUTPUT
           else
             echo "Nothing to commit!"
