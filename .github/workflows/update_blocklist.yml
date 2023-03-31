@@ -16,13 +16,13 @@ jobs:
             --max-time 600 \
             --retry 15 \
             --retry-delay 600 \
-            https://dbl.oisd.nl/ > ./oisd_dbl_full.txt
+            https://big.oisd.nl/ > ./oisd_dbl_full.txt
           
           curl --connect-timeout 600 \
             --max-time 600 \
             --retry 15 \
             --retry-delay 600 \
-            https://abp.oisd.nl// > ./oisd_adb_full.txt
+            https://big.oisd.nl/ > ./oisd_adb_full.txt
       - name: Commit changes
         id: commit
         run: |
