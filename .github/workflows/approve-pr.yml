@@ -1,0 +1,10 @@
+name: Approve PR
+
+on: 
+  pull_request:
+
+jobs:
+  Approve-PR:
+    runs-on: ubuntu-latest
+    steps:
+      - run: sleep 1
