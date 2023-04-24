@@ -41,7 +41,7 @@ jobs:
         id: pr
         uses: peter-evans/create-pull-request@v5
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PUSH_TOKEN }}
           delete-branch: true
           title: '[Github Action Bot] Updated blocklist'
           commit-message: Updated blocklist
