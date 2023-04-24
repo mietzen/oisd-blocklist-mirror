@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  Updated_blocklist:
+  Updated-Blocklist:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -69,8 +69,8 @@ jobs:
           pull-request-number: ${{ steps.pr.outputs.pull-request-number }}
           merge-method: squash
 
-  approve:
+  Aprove-PR:
     runs-on: ubuntu-latest
-    needs: Updated_blocklist
+    needs: Updated-Blocklist
     steps:
-      - run: sleep 10
+      - run: sleep 60
