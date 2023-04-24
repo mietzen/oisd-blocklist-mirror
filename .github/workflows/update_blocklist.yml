@@ -37,7 +37,7 @@ jobs:
         id: pr
         uses: peter-evans/create-pull-request@v4
         with:
-          token: ${{ secrets.PUSH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           delete-branch: true
           title: '[Github Action Bot] Updated blocklist'
           commit-message: Updated blocklist
@@ -55,6 +55,6 @@ jobs:
         if: steps.commit.outputs.change == 'yes' && steps.pr.outputs.pull-request-operation == 'created'
         uses: peter-evans/enable-pull-request-automerge@v2
         with:
-          token: ${{ secrets.PUSH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           pull-request-number: ${{ steps.pr.outputs.pull-request-number }}
           merge-method: squash
