@@ -1,5 +1,5 @@
 # OISD Blocklist Mirror
-My personal mirror of [OISD](https://oisd.nl/) Blocklists for UBlock Origin and Pihole:
+My personal mirror of [OISD](https://oisd.nl/) Blocklists for UBlock Origin and Pihole, updated every 6 hours:
 
 
 ```
