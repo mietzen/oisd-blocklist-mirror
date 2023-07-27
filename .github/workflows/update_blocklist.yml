@@ -26,7 +26,7 @@ jobs:
             --max-time 600 \
             --retry 15 \
             --retry-delay 600 \
-            https://nsfw.oisd.nl/ > ./oisd_dbl_nfsw.txt
+            https://small.oisd.nl/ > ./oisd_dbl_small.txt
 
           curl --connect-timeout 600 \
             --max-time 600 \
