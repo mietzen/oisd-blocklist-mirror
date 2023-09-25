@@ -1,7 +1,7 @@
-# Version: 202309251507
+# Version: 202309252025
 # Title: oisd small
 # Description: Block. Don't break.
-# Last modified: 2023-09-25T15:07:05+0000
+# Last modified: 2023-09-25T20:25:47+0000
 # Expires: 1 hours
 # Homepage: https://oisd.nl
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
@@ -32190,11 +32190,9 @@ local-zone: "sdk.adtiming.com." always_null
 local-zone: "sdk.airbridge.io." always_null
 local-zone: "sdk.appsflyer.com." always_null
 local-zone: "sdk.starbolt.io." always_null
-local-zone: "sdk.stats-locations.com." always_null
 local-zone: "sdk.zadn.vn." always_null
 local-zone: "sdkconfig.ad.xiaomi.com." always_null
 local-zone: "sdkfjxjertertry.com." always_null
-local-zone: "sdks.stats-locations.com." always_null
 local-zone: "sdkv2.imaginationunwired.com." always_null
 local-zone: "sdmfyqkghzedvx.com." always_null
 local-zone: "sdnygannce.com." always_null
@@ -34268,6 +34266,7 @@ local-zone: "stats-dc1.frz.io." always_null
 local-zone: "stats-dev.brid.tv." always_null
 local-zone: "stats-factory.digitregroup.io." always_null
 local-zone: "stats-iobit-com.us-east-1.elasticbeanstalk.com." always_null
+local-zone: "stats-locations.com." always_null
 local-zone: "stats-newyork1.bloxcms.com." always_null
 local-zone: "stats-proto.pandora.com." always_null
 local-zone: "stats-sg.ganymede.eu." always_null
