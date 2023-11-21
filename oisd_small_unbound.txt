@@ -1,7 +1,7 @@
-# Version: 202311210305
+# Version: 202311210905
 # Title: oisd small
 # Description: Block. Don't break.
-# Last modified: 2023-11-21T03:05:30+0000
+# Last modified: 2023-11-21T09:05:40+0000
 # Expires: 1 hours
 # Homepage: https://oisd.nl
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
@@ -3068,6 +3068,7 @@ local-zone: "adsmarket.com." always_null
 local-zone: "adsmart.co.uk." always_null
 local-zone: "adsmart.com." always_null
 local-zone: "adsmart.net." always_null
+local-zone: "adsmaster.dev." always_null
 local-zone: "adsmeasurement.com." always_null
 local-zone: "adsmetadata.mobileadexchange.net." always_null
 local-zone: "adsmiscellaneouswalked.com." always_null
