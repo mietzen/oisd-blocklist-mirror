@@ -1,7 +1,7 @@
-# Version: 202312141506
+# Version: 202312142106
 # Title: oisd small
 # Description: Block. Don't break.
-# Last modified: 2023-12-14T15:06:53+0000
+# Last modified: 2023-12-14T21:06:48+0000
 # Expires: 1 hours
 # Homepage: https://oisd.nl
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
@@ -1856,6 +1856,7 @@ local-zone: "ad.wz.cz." always_null
 local-zone: "ad.xrea.com." always_null
 local-zone: "ad.xxam.org." always_null
 local-zone: "ad.yemeksepeti.com." always_null
+local-zone: "ad.zijieapi.com." always_null
 local-zone: "ad.zing.vn." always_null
 local-zone: "ad.zinimedia.com." always_null
 local-zone: "ad.zui.com." always_null
@@ -3066,7 +3067,6 @@ local-zone: "adtima-common.zadn.vn." always_null
 local-zone: "adtima-common.zascdn.me." always_null
 local-zone: "adtima-media.zadn.vn." always_null
 local-zone: "adtima-media.zascdn.me." always_null
-local-zone: "adtima-static-td.zadn.vn." always_null
 local-zone: "adtima-static.aka.zdn.vn." always_null
 local-zone: "adtima-static.zadn.vn." always_null
 local-zone: "adtima-static.zascdn.me." always_null
@@ -22795,6 +22795,7 @@ local-zone: "mcqgfoc.com." always_null
 local-zone: "mcs-sg.tiktok.com." always_null
 local-zone: "mcs-va.tiktokv.com." always_null
 local-zone: "mcs.snssdk.com." always_null
+local-zone: "mcs.zijieapi.com." always_null
 local-zone: "mctqu.com." always_null
 local-zone: "mcurrentlyse.shop." always_null
 local-zone: "mcvwjzj.com." always_null
@@ -23573,6 +23574,7 @@ local-zone: "mon.isnssdk.com." always_null
 local-zone: "mon.snssdk.com." always_null
 local-zone: "mon.tiktokv.com." always_null
 local-zone: "mon.us.tiktokv.com." always_null
+local-zone: "mon.zijieapi.com." always_null
 local-zone: "monadplug.com." always_null
 local-zone: "monadvs.com." always_null
 local-zone: "monamudden.digital." always_null
@@ -40178,7 +40180,6 @@ local-zone: "zigzagrowy.com." always_null
 local-zone: "zihditozlogf.com." always_null
 local-zone: "zihogchfaan.com." always_null
 local-zone: "zijaipse.com." always_null
-local-zone: "zijieapi.com." always_null
 local-zone: "zikroarg.com." always_null
 local-zone: "zilchesmoated.com." always_null
 local-zone: "zillahhayers.com." always_null
