@@ -1,12 +1,13 @@
-# Version: 202402071829
+# Version: 202402080021
 # Title: oisd small
 # Description: Block. Don't break.
-# Last modified: 2024-02-07T18:29:42+0000
-# Expires: 1 hours
-# Homepage: https://oisd.nl
-# License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Syntax: Unbound
+# Entries: 44373
+# Last modified: 2024-02-08T00:21:28+0000
+# Expires: 1 hours
+# License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
+# Homepage: https://oisd.nl
 # Contact: contact@oisd.nl
 
 server:
@@ -36725,7 +36726,6 @@ local-zone: "stentorsaumont.com." always_null
 local-zone: "step-step-go.com." always_null
 local-zone: "stepchateautolerance.com." always_null
 local-zone: "stepfantasy.art." always_null
-local-zone: "stephn.xyz." always_null
 local-zone: "stepkeydo.com." always_null
 local-zone: "stepmotherincomingpluck.com." always_null
 local-zone: "steppedlashkar.com." always_null
