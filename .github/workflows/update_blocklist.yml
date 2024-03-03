@@ -13,7 +13,7 @@ jobs:
   Updated-Blocklist:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Get latest blocklist
         run: |
           curl --connect-timeout 600 \
