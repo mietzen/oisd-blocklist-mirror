@@ -1,0 +1,25 @@
+name: "Shorten History"
+on:
+  pull_request:
+    types:
+      - closed
+
+permissions:
+  contents: write
+
+jobs:
+  shorthen-history:
+    if: github.event.pull_request.merged == true && github.event.pull_request.user.login == 'merger-bot[bot]'
+    name: "Shorten History"
+    runs-on: "ubuntu-latest"
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: |
+          git checkout --orphan newBranch
+          git add -A
+          git commit -m "Shorten History"
+          git branch -D main
+          git branch -m main
+          git push -f origin main
