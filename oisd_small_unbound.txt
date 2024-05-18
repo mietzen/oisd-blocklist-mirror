@@ -1,9 +1,9 @@
-# Version: 202405181318
+# Version: 202405182106
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 48092
-# Last modified: 2024-05-18T13:18:10+0000
+# Entries: 48096
+# Last modified: 2024-05-18T21:06:13+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3162,7 +3162,6 @@ local-zone: "adsmarket.com." always_null
 local-zone: "adsmart.co.uk." always_null
 local-zone: "adsmart.com." always_null
 local-zone: "adsmart.net." always_null
-local-zone: "adsmaster.dev." always_null
 local-zone: "adsmeasurement.com." always_null
 local-zone: "adsmetadata.mobileadexchange.net." always_null
 local-zone: "adsmind.gdtimg.com." always_null
@@ -26091,6 +26090,7 @@ local-zone: "lraonxdikxi.com." always_null
 local-zone: "lrbvxx.xyz." always_null
 local-zone: "lrcdjqw.com." always_null
 local-zone: "lrdyfz.xyz." always_null
+local-zone: "lreprx-server.anyclip.com." always_null
 local-zone: "lreqmoonpjka.com." always_null
 local-zone: "lrlsrz.xyz." always_null
 local-zone: "lrqknpk.com." always_null
@@ -26688,6 +26688,7 @@ local-zone: "marketingenhanced.com." always_null
 local-zone: "marketinghinder.com." always_null
 local-zone: "marketinghub.zoho.eu." always_null
 local-zone: "marketingsolutions.yahoo.com." always_null
+local-zone: "marketplace.anyclip.com." always_null
 local-zone: "markkasgrosses.com." always_null
 local-zone: "markofathenaluk.com." always_null
 local-zone: "markreptiloid.com." always_null
@@ -26783,6 +26784,8 @@ local-zone: "matildawu.online." always_null
 local-zone: "matiro.com." always_null
 local-zone: "matomo.a1.by." always_null
 local-zone: "matomo.cloudfront.similarweb.io." always_null
+local-zone: "matomo.menshealth.de." always_null
+local-zone: "matomo.motorpresse.de." always_null
 local-zone: "matomo.quan.hoabinh.vn." always_null
 local-zone: "matomo.shoppersguide.com.ph." always_null
 local-zone: "matomo.similarweb.io." always_null
@@ -27320,7 +27323,6 @@ local-zone: "mi82ltk3veb7.com." always_null
 local-zone: "miaeglaring.uno." always_null
 local-zone: "miamiahokums.com." always_null
 local-zone: "miamribud.com." always_null
-local-zone: "mianyaojsj.com." always_null
 local-zone: "miaouedcrevass.com." always_null
 local-zone: "miarroba.com." always_null
 local-zone: "miayarus.com." always_null
@@ -32124,6 +32126,7 @@ local-zone: "pixel.4pcdn.de." always_null
 local-zone: "pixel.4players.de." always_null
 local-zone: "pixel.admobclick.com." always_null
 local-zone: "pixel.advertising.com." always_null
+local-zone: "pixel.anyclip.com." always_null
 local-zone: "pixel.aws.pfnetwork.net." always_null
 local-zone: "pixel.barion.com." always_null
 local-zone: "pixel.biano.cz." always_null
@@ -32287,6 +32290,7 @@ local-zone: "playboywere.com." always_null
 local-zone: "playdraught.com." always_null
 local-zone: "player-feedback.p7s1video.net." always_null
 local-zone: "player-telemetry.vimeo.com." always_null
+local-zone: "player.anyclip.com." always_null
 local-zone: "player.gliacloud.com." always_null
 local-zone: "player.stats.live-video.net." always_null
 local-zone: "playeranyd.org." always_null
