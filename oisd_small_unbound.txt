@@ -1,9 +1,9 @@
-# Version: 202410290306
+# Version: 202410290707
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Unbound
 # Entries: 46323
-# Last modified: 2024-10-29T03:06:45+0000
+# Last modified: 2024-10-29T07:07:10+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -932,7 +932,6 @@ local-zone: "4dtrk.com." always_null
 local-zone: "4e0622e316.com." always_null
 local-zone: "4e26d342b8.com." always_null
 local-zone: "4e2c896383.com." always_null
-local-zone: "4e943b0889.598f0ce32f.com." always_null
 local-zone: "4ed196b502.com." always_null
 local-zone: "4ed5560812.com." always_null
 local-zone: "4ever.cc." always_null
@@ -1029,6 +1028,7 @@ local-zone: "592fd0d4b9.70be76b98c.com." always_null
 local-zone: "5930107e7f.e890f5e345.com." always_null
 local-zone: "595image.com." always_null
 local-zone: "5981397f6e.63f2778501.com." always_null
+local-zone: "598f0ce32f.com." always_null
 local-zone: "59cn7.com." always_null
 local-zone: "59e6ea7248001c.com." always_null
 local-zone: "5a6c114183.com." always_null
@@ -7780,7 +7780,6 @@ local-zone: "bd1.szhk.com." always_null
 local-zone: "bd1.yidu.cc." always_null
 local-zone: "bd100.010lm.com." always_null
 local-zone: "bd11.nipic.com." always_null
-local-zone: "bd2e9c4479.bea988787c.com." always_null
 local-zone: "bd3.chuiyue.com." always_null
 local-zone: "bd33500074.com." always_null
 local-zone: "bd51static.com." always_null
@@ -7824,6 +7823,7 @@ local-zone: "bdzdd2-sdd53-vxc.com." always_null
 local-zone: "be-rtl.videoplaza.tv." always_null
 local-zone: "be30660063.com." always_null
 local-zone: "bea-s.dinghuoche.com." always_null
+local-zone: "bea988787c.com." always_null
 local-zone: "beachanatomyheroin.com." always_null
 local-zone: "beachinfinitegag.com." always_null
 local-zone: "beacon-api.aliyuncs.com." always_null
