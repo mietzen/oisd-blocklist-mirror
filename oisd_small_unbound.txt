@@ -1,9 +1,9 @@
-# Version: 202501101909
+# Version: 202501110308
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 44457
-# Last modified: 2025-01-10T19:09:55+0000
+# Entries: 44448
+# Last modified: 2025-01-11T03:08:56+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8642,9 +8642,7 @@ local-zone: "bnmtgboouf.com." always_null
 local-zone: "bnpknicjeb.com." always_null
 local-zone: "bnr.sys.lv." always_null
 local-zone: "bnrdom.com." always_null
-local-zone: "bnrs.esexa.online." always_null
 local-zone: "bnrs.it." always_null
-local-zone: "bnrs.manrec.cc." always_null
 local-zone: "bnrs.shemrec.cc." always_null
 local-zone: "bnrsis.com." always_null
 local-zone: "bnrslks.com." always_null
@@ -10048,7 +10046,6 @@ local-zone: "cdn.datateam.co.uk." always_null
 local-zone: "cdn.dsmstats.com." always_null
 local-zone: "cdn.eksiup.com." always_null
 local-zone: "cdn.falkloo.cloud." always_null
-local-zone: "cdn.faspox.com." always_null
 local-zone: "cdn.fedsy.xyz." always_null
 local-zone: "cdn.fedykr.com." always_null
 local-zone: "cdn.fegivja.com." always_null
@@ -13424,7 +13421,6 @@ local-zone: "d3d9pt4go32tk8.cloudfront.net." always_null
 local-zone: "d3dpet1g0ty5ed.cloudfront.net." always_null
 local-zone: "d3dq1nh1l1pzqy.cloudfront.net." always_null
 local-zone: "d3ec0pbimicc4r.cloudfront.net." always_null
-local-zone: "d3edbb478c.com." always_null
 local-zone: "d3edizycpjjo07.cloudfront.net." always_null
 local-zone: "d3efeah7vk80fy.cloudfront.net." always_null
 local-zone: "d3ej838ds58re9.cloudfront.net." always_null
@@ -16509,6 +16505,7 @@ local-zone: "esculicturbans.com." always_null
 local-zone: "escy55gxubl6.com." always_null
 local-zone: "esdykv.com." always_null
 local-zone: "eserinemersion.shop." always_null
+local-zone: "esexa.online." always_null
 local-zone: "eshkol.one." always_null
 local-zone: "eshoohasteeg.com." always_null
 local-zone: "eshouloo.net." always_null
@@ -17254,6 +17251,7 @@ local-zone: "fascinateddashboard.com." always_null
 local-zone: "fasfsv-sli.love." always_null
 local-zone: "fasgazazxvi.com." always_null
 local-zone: "fashionablegangsterexplosion.com." always_null
+local-zone: "faspox.com." always_null
 local-zone: "fastad.beepworld.de." always_null
 local-zone: "fastapi.net." always_null
 local-zone: "fastcdn.info." always_null
@@ -17593,7 +17591,6 @@ local-zone: "filter-eu.nexrtb.com." always_null
 local-zone: "filter-eu.pops.gg." always_null
 local-zone: "filter-eu.re-media.info." always_null
 local-zone: "filter-eu.saroadexchange.com." always_null
-local-zone: "filter-eu.srvqck.com." always_null
 local-zone: "filter.a1.0network.com." always_null
 local-zone: "filter.adflores.com." always_null
 local-zone: "filter.adflydsp.com." always_null
@@ -17663,7 +17660,6 @@ local-zone: "filter.ripamatic.com." always_null
 local-zone: "filter.safesearchguard.com." always_null
 local-zone: "filter.saroadexchange.com." always_null
 local-zone: "filter.shieldcheckerservices.com." always_null
-local-zone: "filter.srvqck.com." always_null
 local-zone: "filter.srvqck1.com." always_null
 local-zone: "filter.themediaad.com." always_null
 local-zone: "filter.thetrafficbid.com." always_null
@@ -25367,6 +25363,7 @@ local-zone: "manoirshrine.com." always_null
 local-zone: "manomincasaque.com." always_null
 local-zone: "manompas.com." always_null
 local-zone: "manorfunctions.com." always_null
+local-zone: "manrec.cc." always_null
 local-zone: "manrootarbota.com." always_null
 local-zone: "mansfieldspurtvan.com." always_null
 local-zone: "manslaughterhallucinateenjoyment.com." always_null
@@ -31082,8 +31079,6 @@ local-zone: "projectagoratech.com." always_null
 local-zone: "projectscupcakeinternational.com." always_null
 local-zone: "projectwonderful.com." always_null
 local-zone: "prolatecyclus.com." always_null
-local-zone: "proll.esexa.online." always_null
-local-zone: "proll.manrec.cc." always_null
 local-zone: "proll.shemrec.cc." always_null
 local-zone: "prologuerussialavender.com." always_null
 local-zone: "prologuetwinsmolecule.com." always_null
@@ -31552,8 +31547,6 @@ local-zone: "pumpbead.com." always_null
 local-zone: "pumpkin.abine.com." always_null
 local-zone: "punctual-window.com." always_null
 local-zone: "punctualflopsubquery.com." always_null
-local-zone: "pundr.esexa.online." always_null
-local-zone: "pundr.manrec.cc." always_null
 local-zone: "pundr.shemrec.cc." always_null
 local-zone: "pungentsmartlyhoarse.com." always_null
 local-zone: "punicajosher.top." always_null
@@ -34127,7 +34120,6 @@ local-zone: "s6.textlink.vn." always_null
 local-zone: "s762.pressenterprise.com." always_null
 local-zone: "s7feh.top." always_null
 local-zone: "s811.ketv.com." always_null
-local-zone: "s83.fun." always_null
 local-zone: "s99i.org." always_null
 local-zone: "sa.entireweb.com." always_null
 local-zone: "sa.scorpion.co." always_null
@@ -36285,6 +36277,7 @@ local-zone: "sruyjn-pa.one." always_null
 local-zone: "srv.dynamicyield.com." always_null
 local-zone: "srv224.com." always_null
 local-zone: "srvd2204.com." always_null
+local-zone: "srvqck.com." always_null
 local-zone: "srvupads.com." always_null
 local-zone: "srwwce.xyz." always_null
 local-zone: "srwww1.com." always_null
@@ -36660,7 +36653,6 @@ local-zone: "static.rvndigital.com." always_null
 local-zone: "static.schrotundkorn.de." always_null
 local-zone: "static.smoads.com." always_null
 local-zone: "static.sonicplug.com." always_null
-local-zone: "static.srvqck.com." always_null
 local-zone: "static.srvqck1.com." always_null
 local-zone: "static.staradsmedia.com." always_null
 local-zone: "static.stayedbeh-serving.com." always_null
@@ -43500,7 +43492,6 @@ local-zone: "xml.setlitescmode-2.online." always_null
 local-zone: "xml.shieldcheckerservices.com." always_null
 local-zone: "xml.skycommission.com." always_null
 local-zone: "xml.speroll.com." always_null
-local-zone: "xml.srvqck.com." always_null
 local-zone: "xml.srvqck1.com." always_null
 local-zone: "xml.staradsmedia.com." always_null
 local-zone: "xml.startbrws-2.online." always_null
