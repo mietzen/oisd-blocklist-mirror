@@ -65,7 +65,7 @@ jobs:
             echo "Nothing to commit!"
             echo "change=no" >> $GITHUB_OUTPUT
           fi
-      - uses: actions/create-github-app-token@v1
+      - uses: actions/create-github-app-token@v2
         id: generate-token
         with:
           app-id: ${{ secrets.APP_ID }}
