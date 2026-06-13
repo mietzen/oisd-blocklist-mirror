@@ -1,9 +1,9 @@
-# Version: 202606130913
+# Version: 202606131306
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 59456
-# Last modified: 2026-06-13T09:13:42+0000
+# Entries: 59441
+# Last modified: 2026-06-13T13:06:19+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -67,7 +67,6 @@ local-zone: "0645405ef4.com." always_null
 local-zone: "066b0fa5eb.64980aaffd.com." always_null
 local-zone: "066b7e895c.com." always_null
 local-zone: "067f87da09.com." always_null
-local-zone: "069667261e.com." always_null
 local-zone: "06aa7d6d80.com." always_null
 local-zone: "06b36b4508.5813e74b18.com." always_null
 local-zone: "06cp8ypn8j.com." always_null
@@ -93,7 +92,6 @@ local-zone: "0980b6e8fe.com." always_null
 local-zone: "09qin0pc.xyz." always_null
 local-zone: "0a0atz2sh.top." always_null
 local-zone: "0a186254d0.cf25ba90cc.com." always_null
-local-zone: "0a57f6bbfd.com." always_null
 local-zone: "0a66kw9r8.com." always_null
 local-zone: "0af2a962b0102942d9a7df351b20be55.com." always_null
 local-zone: "0aior18v.xyz." always_null
@@ -104,6 +102,7 @@ local-zone: "0bb8jytek.com." always_null
 local-zone: "0bd18cc899.com." always_null
 local-zone: "0c2bddd1f6.com." always_null
 local-zone: "0c43ec936e.d1e223a9f2.com." always_null
+local-zone: "0c6bdc3ecc.cfabf1ef11.com." always_null
 local-zone: "0cf.io." always_null
 local-zone: "0d1oo8jp69.com." always_null
 local-zone: "0d22ca5caa.com." always_null
@@ -124,6 +123,7 @@ local-zone: "0edd2cf0d3.4514559af9.com." always_null
 local-zone: "0etmx4b4o.com." always_null
 local-zone: "0f614c737e.b84f93087e.com." always_null
 local-zone: "0f857e584a.com." always_null
+local-zone: "0f85bcb09c.97f477047f.com." always_null
 local-zone: "0f8eec5673.com." always_null
 local-zone: "0fa6d5f434.com." always_null
 local-zone: "0fe5096a4c.com." always_null
@@ -253,7 +253,6 @@ local-zone: "121networks.com." always_null
 local-zone: "121xpp689.com." always_null
 local-zone: "121yscfk5e.com." always_null
 local-zone: "123-stream.org." always_null
-local-zone: "1230165f1b.com." always_null
 local-zone: "123456.asia." always_null
 local-zone: "123found.com." always_null
 local-zone: "12454f109f.69b22afb80.com." always_null
@@ -301,6 +300,7 @@ local-zone: "151xrobgqz.com." always_null
 local-zone: "1529462937.rsc.cdn77.org." always_null
 local-zone: "1548164934.rsc.cdn77.org." always_null
 local-zone: "15946bfe8d.com." always_null
+local-zone: "15f3ecdff9.21c69b70bc.com." always_null
 local-zone: "15ftgllk1.com." always_null
 local-zone: "15mxfnk6sw.com." always_null
 local-zone: "15oil.net." always_null
@@ -377,6 +377,8 @@ local-zone: "1buu1.penyouw.com." always_null
 local-zone: "1bx3a4s2.xyz." always_null
 local-zone: "1c46639b8d.aff15e203a.com." always_null
 local-zone: "1c6fd11ca2.com." always_null
+local-zone: "1ca6e3e357.a8ca394de0.com." always_null
+local-zone: "1cbd637d10.2c8eb505eb.com." always_null
 local-zone: "1ccbt.com." always_null
 local-zone: "1cctcm1gq.de." always_null
 local-zone: "1cd21cb1e4.com." always_null
@@ -386,6 +388,7 @@ local-zone: "1d0a4a935b.com." always_null
 local-zone: "1d204d7192.ea32481d6e.com." always_null
 local-zone: "1d22c41079.com." always_null
 local-zone: "1d473a90d9.com." always_null
+local-zone: "1d7e60f18a.33cd95e164.com." always_null
 local-zone: "1db9fede5f.com." always_null
 local-zone: "1dgfd.cc." always_null
 local-zone: "1dm6ccvy8.com." always_null
@@ -400,6 +403,7 @@ local-zone: "1f26db4741.com." always_null
 local-zone: "1f2e7.v.fwmrm.net." always_null
 local-zone: "1f3912cb04.com." always_null
 local-zone: "1f7wwaex9rbh.com." always_null
+local-zone: "1f92a26341.0a57f6bbfd.com." always_null
 local-zone: "1fa107ed6e.com." always_null
 local-zone: "1fa25f6cc1.com." always_null
 local-zone: "1fd27fc99f.com." always_null
@@ -526,9 +530,9 @@ local-zone: "202xs.com." always_null
 local-zone: "203a382a60.403dee4b16.com." always_null
 local-zone: "2048executors.com." always_null
 local-zone: "2048hydreo.net." always_null
-local-zone: "20590def33.com." always_null
 local-zone: "206ads.com." always_null
 local-zone: "20dollars2surf.com." always_null
+local-zone: "20f866afaf.069667261e.com." always_null
 local-zone: "20l2ldrn2.de." always_null
 local-zone: "20rm.com." always_null
 local-zone: "20tracks.com." always_null
@@ -540,7 +544,6 @@ local-zone: "215a043303.com." always_null
 local-zone: "218emo1t.de." always_null
 local-zone: "21a3ff363a.com." always_null
 local-zone: "21b95312a1.com." always_null
-local-zone: "21c69b70bc.com." always_null
 local-zone: "21cfhm0s1.top." always_null
 local-zone: "21f5f01ad3.com." always_null
 local-zone: "21hn4b64m.de." always_null
@@ -666,7 +669,6 @@ local-zone: "2b91f59493.com." always_null
 local-zone: "2bps53igop02.com." always_null
 local-zone: "2bwiihrajn.com." always_null
 local-zone: "2c4rrl8pe.de." always_null
-local-zone: "2c8eb505eb.com." always_null
 local-zone: "2ch-d.fun." always_null
 local-zone: "2cjlj3c15.de." always_null
 local-zone: "2cn9g1efo.com." always_null
@@ -814,6 +816,7 @@ local-zone: "31aqn13o6.de." always_null
 local-zone: "31b0f03f5b.com." always_null
 local-zone: "31bqljnla.de." always_null
 local-zone: "31cm5fq78.de." always_null
+local-zone: "31d13b8840.399a0014f6.com." always_null
 local-zone: "31d6gphkr.de." always_null
 local-zone: "31daa5lnq.de." always_null
 local-zone: "31def61c3.de." always_null
@@ -841,7 +844,7 @@ local-zone: "33773a42d8.944ef08b40.com." always_null
 local-zone: "33across.com." always_null
 local-zone: "33apk.com." always_null
 local-zone: "33bbaf45e4.f9fd639740.com." always_null
-local-zone: "33cd95e164.com." always_null
+local-zone: "33e575cb57.a02e31b105.com." always_null
 local-zone: "33elevation.net." always_null
 local-zone: "33ewu7kr.xyz." always_null
 local-zone: "33fromsource.net." always_null
@@ -904,9 +907,7 @@ local-zone: "38a6848c49.com." always_null
 local-zone: "38ds89f8.de." always_null
 local-zone: "39236100.lotre.io." always_null
 local-zone: "392b00bfff.36a1652b0f.com." always_null
-local-zone: "396d8aaa17.com." always_null
 local-zone: "3999f86b91.com." always_null
-local-zone: "399a0014f6.com." always_null
 local-zone: "39e6p9p7.de." always_null
 local-zone: "39grbc.jackbarber.co.uk." always_null
 local-zone: "39jz.com." always_null
@@ -1118,6 +1119,7 @@ local-zone: "4e459a72cc.d4bd4c34af.com." always_null
 local-zone: "4e5902f95e.com." always_null
 local-zone: "4e9ynqm47d.com." always_null
 local-zone: "4ea83ab453.dec1daff38.com." always_null
+local-zone: "4ef55c331f.6dca8ddc4d.com." always_null
 local-zone: "4ef8c1bbed.223001ca2c.com." always_null
 local-zone: "4f2sm1y1ss.com." always_null
 local-zone: "4f31c6ef07.com." always_null
@@ -1275,6 +1277,7 @@ local-zone: "5dfiuae82.com." always_null
 local-zone: "5dhnv8.ru." always_null
 local-zone: "5dycay3rr.com." always_null
 local-zone: "5e1jng5u4lfi5i9qqi.rest." always_null
+local-zone: "5e56217cd5.396d8aaa17.com." always_null
 local-zone: "5e9cb65c2c.com." always_null
 local-zone: "5edf1d2qv.com." always_null
 local-zone: "5eyal1g5a9.com." always_null
@@ -1360,7 +1363,6 @@ local-zone: "60ef1c3dd9.753fceba29.com." always_null
 local-zone: "61011fc558.com." always_null
 local-zone: "612fc22a02.com." always_null
 local-zone: "613f15a070.com." always_null
-local-zone: "618856e0bb.com." always_null
 local-zone: "61d7a302a1.com." always_null
 local-zone: "61edd03ae1.com." always_null
 local-zone: "61fe2d132b.com." always_null
@@ -1468,7 +1470,6 @@ local-zone: "6d092bcd12.com." always_null
 local-zone: "6d1e5b5068.com." always_null
 local-zone: "6d90fc608a.f39ff3accb.com." always_null
 local-zone: "6dbc7ad876.com." always_null
-local-zone: "6dca8ddc4d.com." always_null
 local-zone: "6drq9rfn.xyz." always_null
 local-zone: "6e403ef694.c501fc4637.com." always_null
 local-zone: "6e4hoe355t17yt2vm2uxlwbrxyrr.cfd." always_null
@@ -1622,6 +1623,7 @@ local-zone: "78f201e862.com." always_null
 local-zone: "78wiova.com." always_null
 local-zone: "7926ccc537.com." always_null
 local-zone: "7934ed29d8.com." always_null
+local-zone: "794f43b774.d3c6339ed7.com." always_null
 local-zone: "796da77408.1b02555400.com." always_null
 local-zone: "79d55a202e.com." always_null
 local-zone: "79k52baw2qa3.com." always_null
@@ -1659,7 +1661,6 @@ local-zone: "7car.com.cn." always_null
 local-zone: "7ce48c6052.com." always_null
 local-zone: "7d44c6ba4d.com." always_null
 local-zone: "7d6958cb00.com." always_null
-local-zone: "7d909fb540.com." always_null
 local-zone: "7d93f9d2f5.com." always_null
 local-zone: "7da1aovz6.com." always_null
 local-zone: "7ddqvun8i1.com." always_null
@@ -1805,7 +1806,6 @@ local-zone: "89terraium.net." always_null
 local-zone: "8a41766c30.com." always_null
 local-zone: "8a6cc3f77f.com." always_null
 local-zone: "8acd6b63f9.com." always_null
-local-zone: "8af0229830.com." always_null
 local-zone: "8afb98c0d8.com." always_null
 local-zone: "8b023d788d.com." always_null
 local-zone: "8b0e465f3e.com." always_null
@@ -1940,6 +1940,7 @@ local-zone: "95urbehxy2dh.top." always_null
 local-zone: "960021c71c.com." always_null
 local-zone: "9613gwqee.com." always_null
 local-zone: "96382zubo66756.com." always_null
+local-zone: "963a45e65f.7d909fb540.com." always_null
 local-zone: "9679c2b616.com." always_null
 local-zone: "96a3783f2f.com." always_null
 local-zone: "96d2c00b3e.com." always_null
@@ -1952,7 +1953,6 @@ local-zone: "970vantage.net." always_null
 local-zone: "973e5a5a22.com." always_null
 local-zone: "976caebe7b.com." always_null
 local-zone: "97ce98c219.com." always_null
-local-zone: "97f477047f.com." always_null
 local-zone: "97inservices.net." always_null
 local-zone: "97nexoleo.net." always_null
 local-zone: "97vk351gi.com." always_null
@@ -2241,7 +2241,6 @@ local-zone: "a.yellowurl.cn." always_null
 local-zone: "a.youdao.com." always_null
 local-zone: "a.yuzhainan.com." always_null
 local-zone: "a.zdg.de." always_null
-local-zone: "a02e31b105.com." always_null
 local-zone: "a05fda840b.cd6b9b5aa4.com." always_null
 local-zone: "a065b8f217.com." always_null
 local-zone: "a06c9a4dd7.com." always_null
@@ -2307,7 +2306,6 @@ local-zone: "a4e798c110.com." always_null
 local-zone: "a4j126meg3.com." always_null
 local-zone: "a4xvv2g18l.com." always_null
 local-zone: "a51wzxssu.com." always_null
-local-zone: "a54a8ff97b.com." always_null
 local-zone: "a5ddb5cd30.com." always_null
 local-zone: "a5wlr2yplf.com." always_null
 local-zone: "a613.redbluffdailynews.com." always_null
@@ -2326,7 +2324,6 @@ local-zone: "a85t9mxnj.com." always_null
 local-zone: "a869.mercurynews.com." always_null
 local-zone: "a89da11668.com." always_null
 local-zone: "a8aebc73ca.com." always_null
-local-zone: "a8ca394de0.com." always_null
 local-zone: "a8h4zhbmxi.com." always_null
 local-zone: "a8qwjt7dwi.com." always_null
 local-zone: "a8wqu3fbmk.com." always_null
@@ -5254,7 +5251,6 @@ local-zone: "airlessquotationtroubled.com." always_null
 local-zone: "airlessstereoadvised.com." always_null
 local-zone: "airlinerholesacquaintance.com." always_null
 local-zone: "airlinervegetarian.com." always_null
-local-zone: "airlingyperite.qpon." always_null
 local-zone: "airplaneprosperretreat.com." always_null
 local-zone: "airyihltczmmq.online." always_null
 local-zone: "aisayivi.com." always_null
@@ -7077,7 +7073,6 @@ local-zone: "arid-smell.pro." always_null
 local-zone: "arightdaturic.shop." always_null
 local-zone: "arimaspdeek.com." always_null
 local-zone: "ariotgribble.com." always_null
-local-zone: "arithmetic48.top." always_null
 local-zone: "arithmeticrobust.com." always_null
 local-zone: "arithpouted.com." always_null
 local-zone: "arjhazqre.in." always_null
@@ -7945,6 +7940,7 @@ local-zone: "b141e5f455.5495d0c343.com." always_null
 local-zone: "b14ae1c233.com." always_null
 local-zone: "b14yu2.k12hmfttvyyc1v.cyou." always_null
 local-zone: "b1733e915d.com." always_null
+local-zone: "b17936d699.8af0229830.com." always_null
 local-zone: "b1814392f8.com." always_null
 local-zone: "b1f51f1561.79fb811d53.com." always_null
 local-zone: "b1fb7ee141.3fc6424eda.com." always_null
@@ -8881,7 +8877,6 @@ local-zone: "bfjflpryolthp.online." always_null
 local-zone: "bflvxv.icu." always_null
 local-zone: "bfmio.com." always_null
 local-zone: "bfmovugujnybt.online." always_null
-local-zone: "bfoprtc-a.online." always_null
 local-zone: "bfpartners.click." always_null
 local-zone: "bfpxyzomls.com." always_null
 local-zone: "bfqagfnfbqbl.com." always_null
@@ -10441,7 +10436,6 @@ local-zone: "c1.wfinterface.com." always_null
 local-zone: "c1068112e7.com." always_null
 local-zone: "c11a6baa3f.com." always_null
 local-zone: "c17e7f4aa9.com." always_null
-local-zone: "c17jlyi26cbury8ghn4.cfd." always_null
 local-zone: "c18f3ffc23.com." always_null
 local-zone: "c1exchange.com." always_null
 local-zone: "c1qm3mg41.com." always_null
@@ -11095,6 +11089,7 @@ local-zone: "cdn.dsmstats.com." always_null
 local-zone: "cdn.dsspn.com." always_null
 local-zone: "cdn.eksiup.com." always_null
 local-zone: "cdn.empower.net." always_null
+local-zone: "cdn.falkloo.cloud." always_null
 local-zone: "cdn.faspox.com." always_null
 local-zone: "cdn.fclas.com." always_null
 local-zone: "cdn.fedsy.xyz." always_null
@@ -11118,6 +11113,7 @@ local-zone: "cdn.jampp.com." always_null
 local-zone: "cdn.jandaqwe.com." always_null
 local-zone: "cdn.jeckear.com." always_null
 local-zone: "cdn.jhoncj.com." always_null
+local-zone: "cdn.jkpes.com." always_null
 local-zone: "cdn.js.fpaudience.com." always_null
 local-zone: "cdn.kaizenplatform.net." always_null
 local-zone: "cdn.karpatzi.com." always_null
@@ -11391,7 +11387,6 @@ local-zone: "cf.overblog.com." always_null
 local-zone: "cf6fae15c3.com." always_null
 local-zone: "cf7xvu3z6z.com." always_null
 local-zone: "cfa-js.cafe24.com." always_null
-local-zone: "cfabf1ef11.com." always_null
 local-zone: "cfarvjcutttkn.website." always_null
 local-zone: "cfbgxtwssfqah.online." always_null
 local-zone: "cfcezivxdpevd.online." always_null
@@ -11906,6 +11901,7 @@ local-zone: "click-dsp.branchdsp.io." always_null
 local-zone: "click-eu-v4.ecxclk.com." always_null
 local-zone: "click-eu-v4.exclk.com." always_null
 local-zone: "click-eu-v4.exoclkneu.com." always_null
+local-zone: "click-eu-v4.expmclck.com." always_null
 local-zone: "click-eu-v4.expmidclk.com." always_null
 local-zone: "click-eu-v4.plarclck.com." always_null
 local-zone: "click-eu-v4.preclksize.com." always_null
@@ -11928,8 +11924,10 @@ local-zone: "click-rtb2-useast.applabs.live." always_null
 local-zone: "click-rtb2-useast.mediarise.io." always_null
 local-zone: "click-v4.ecxclk.com." always_null
 local-zone: "click-v4.exclk.com." always_null
+local-zone: "click-v4.exmnclk.com." always_null
 local-zone: "click-v4.exoclkneu.com." always_null
 local-zone: "click-v4.explodnmainclck.com." always_null
+local-zone: "click-v4.expmclck.com." always_null
 local-zone: "click-v4.expmidclk.com." always_null
 local-zone: "click-v4.fidmkrclk.com." always_null
 local-zone: "click-v4.junimedclk.com." always_null
@@ -11954,6 +11952,7 @@ local-zone: "click.eclkxopteam.com." always_null
 local-zone: "click.ecxclk.com." always_null
 local-zone: "click.exclk.com." always_null
 local-zone: "click.exoclkneu.com." always_null
+local-zone: "click.expmclck.com." always_null
 local-zone: "click.expmidclk.com." always_null
 local-zone: "click.fool.com." always_null
 local-zone: "click.googleanalytics.com." always_null
@@ -13767,7 +13766,6 @@ local-zone: "curtworlds.com." always_null
 local-zone: "curvatureinadvanced.com." always_null
 local-zone: "curvedheldideal.com." always_null
 local-zone: "curvemodernforester.com." always_null
-local-zone: "curversyndetweapon.qpon." always_null
 local-zone: "curvy-print.pro." always_null
 local-zone: "curyrentattri.com." always_null
 local-zone: "cuspidcary.cfd." always_null
@@ -14944,7 +14942,6 @@ local-zone: "d3boleenfhg2gk.cloudfront.net." always_null
 local-zone: "d3bsbtr7gp443k.cloudfront.net." always_null
 local-zone: "d3bviecoc049je.cloudfront.net." always_null
 local-zone: "d3c3uihon9kmp.cloudfront.net." always_null
-local-zone: "d3c6339ed7.com." always_null
 local-zone: "d3c8j8snkzfr1n.cloudfront.net." always_null
 local-zone: "d3cesrg5igdcgt.cloudfront.net." always_null
 local-zone: "d3cgm8py10hi0z.cloudfront.net." always_null
@@ -15270,6 +15267,8 @@ local-zone: "da5h676k6d22w.cloudfront.net." always_null
 local-zone: "da656buijq2gw.cloudfront.net." always_null
 local-zone: "da6e6963b8.01955ad1f7.com." always_null
 local-zone: "da6zbf1armlme.cloudfront.net." always_null
+local-zone: "da8715ad2d.618856e0bb.com." always_null
+local-zone: "da8b600d65.1230165f1b.com." always_null
 local-zone: "daa9425b1e.com." always_null
 local-zone: "daaae00aa4.com." always_null
 local-zone: "daailynews.com." always_null
@@ -17294,7 +17293,6 @@ local-zone: "dsbohcqqdvbyt.site." always_null
 local-zone: "dsbsmooohjuon.online." always_null
 local-zone: "dscex7u1h4a9a.cloudfront.net." always_null
 local-zone: "dsckgc.com." always_null
-local-zone: "dsdxyl.com." always_null
 local-zone: "dseel9.com." always_null
 local-zone: "dsetx3.com." always_null
 local-zone: "dsfnqgusr.com." always_null
@@ -17348,7 +17346,6 @@ local-zone: "dswepngsrbhza.space." always_null
 local-zone: "dsxgwwrkecsxd.online." always_null
 local-zone: "dsygrxfwrlatx.online." always_null
 local-zone: "dsyrogvoyrsrl.space." always_null
-local-zone: "dszdcm.com." always_null
 local-zone: "dt.beyla.site." always_null
 local-zone: "dt.vnecdn.com." always_null
 local-zone: "dt.xfyun.cn." always_null
@@ -18171,6 +18168,7 @@ local-zone: "ef-dongfeng.tanx.com." always_null
 local-zone: "ef.fanatical.com." always_null
 local-zone: "ef.futuroscope.com." always_null
 local-zone: "ef13348130.com." always_null
+local-zone: "ef6f055a34.a54a8ff97b.com." always_null
 local-zone: "ef9i0f3oev47.com." always_null
 local-zone: "efadfubcqalcr.club." always_null
 local-zone: "efbeetcblr.com." always_null
@@ -18296,7 +18294,6 @@ local-zone: "eiaffrjrykttz.online." always_null
 local-zone: "eicyobandony.com." always_null
 local-zone: "eidersalias.com." always_null
 local-zone: "eiget.xyz." always_null
-local-zone: "eighaver.cfd." always_null
 local-zone: "eightcontented.com." always_null
 local-zone: "eighthpowerfully.com." always_null
 local-zone: "eigksrjne.com." always_null
@@ -18731,7 +18728,6 @@ local-zone: "enrageperplexparable.com." always_null
 local-zone: "enrfuklwccrp.com." always_null
 local-zone: "enrtx.com." always_null
 local-zone: "enryiblhcp.com." always_null
-local-zone: "ensainttosser.cfd." always_null
 local-zone: "ensignpancreasrun.com." always_null
 local-zone: "ensmwonhtzpdh.space." always_null
 local-zone: "ensure08062025.shop." always_null
@@ -18846,7 +18842,6 @@ local-zone: "epilovnncqduc.site." always_null
 local-zone: "epilreoffer.com." always_null
 local-zone: "epimetheus.navigator.gmx.net." always_null
 local-zone: "epito.xyz." always_null
-local-zone: "epitomeplungertowlike.qpon." always_null
 local-zone: "epitseise.top." always_null
 local-zone: "epiv.cardlytics.com." always_null
 local-zone: "epjlfziryrpkg.site." always_null
@@ -19566,7 +19561,6 @@ local-zone: "exlzgmwsnvdpf.space." always_null
 local-zone: "exmainclck.com." always_null
 local-zone: "exmainclckback.com." always_null
 local-zone: "exmainclcknew.com." always_null
-local-zone: "exmnclk.com." always_null
 local-zone: "exmwfltxyxwmr.website." always_null
 local-zone: "exoclick.com." always_null
 local-zone: "exodusjailhousetarantula.com." always_null
@@ -19603,7 +19597,6 @@ local-zone: "explodclikmn.com." always_null
 local-zone: "explodeddeitycomparatively.com." always_null
 local-zone: "exploitsubdivide.com." always_null
 local-zone: "explorads.com." always_null
-local-zone: "expmclck.com." always_null
 local-zone: "expmnclick.com." always_null
 local-zone: "expoclknu.com." always_null
 local-zone: "exponential.com." always_null
@@ -19773,7 +19766,6 @@ local-zone: "f351966262.com." always_null
 local-zone: "f361.wvtm13.com." always_null
 local-zone: "f3737ec16b.d57b6d1e63.com." always_null
 local-zone: "f373c4c8d6.cda84af905.com." always_null
-local-zone: "f3e1df5eea.com." always_null
 local-zone: "f3k194f9i7.com." always_null
 local-zone: "f435ee855c.com." always_null
 local-zone: "f4c317673b.com." always_null
@@ -19813,6 +19805,7 @@ local-zone: "f9dc3c3b5e.7ed58b948f.com." always_null
 local-zone: "f9gv87zoq2.com." always_null
 local-zone: "fa29c88413.com." always_null
 local-zone: "fa5.dn4.it." always_null
+local-zone: "fa618f17f4.f3e1df5eea.com." always_null
 local-zone: "faaghupwithrd.space." always_null
 local-zone: "faajmsrnw.com." always_null
 local-zone: "fabkmopsppttt.website." always_null
@@ -19893,7 +19886,6 @@ local-zone: "falcon.rowanmanning.com." always_null
 local-zone: "falcon.useinsider.com." always_null
 local-zone: "falcopeacing.com." always_null
 local-zone: "falhcegbmvooc.site." always_null
-local-zone: "falkloo.cloud." always_null
 local-zone: "falkwo.com." always_null
 local-zone: "fallback.attntags.com." always_null
 local-zone: "fallback.emtag.net." always_null
@@ -20284,6 +20276,7 @@ local-zone: "ff.raposoft.buzz." always_null
 local-zone: "ff.rosuirone.digital." always_null
 local-zone: "ff31fdce72.com." always_null
 local-zone: "ff5860d583.com." always_null
+local-zone: "ff97d1d2da.20590def33.com." always_null
 local-zone: "ffajhxmenny.com." always_null
 local-zone: "ffbdatxllaeco.website." always_null
 local-zone: "ffcb0a79ec.com." always_null
@@ -22152,7 +22145,6 @@ local-zone: "geminalorion.cyou." always_null
 local-zone: "gemini.yahoo.com." always_null
 local-zone: "geminisailingzillion.com." always_null
 local-zone: "gemius.hu." always_null
-local-zone: "gemlikefigeter.qpon." always_null
 local-zone: "gemtun.ctnewsjunkie.com." always_null
 local-zone: "genbalar.com." always_null
 local-zone: "gendbkamiggxs.site." always_null
@@ -23221,7 +23213,6 @@ local-zone: "grgnsht.nzxt.com." always_null
 local-zone: "grheawfgtywxym.com." always_null
 local-zone: "gridamplitudebabysitting.com." always_null
 local-zone: "gridder.co." always_null
-local-zone: "gridderreswear.qpon." always_null
 local-zone: "gridnovablock.com." always_null
 local-zone: "gridrelay27.co." always_null
 local-zone: "griecepeumus.cfd." always_null
@@ -24455,7 +24446,6 @@ local-zone: "hiqjgqdjkv.com." always_null
 local-zone: "hirselsousted.qpon." always_null
 local-zone: "hirseluric.cfd." always_null
 local-zone: "hisfwbkl.com." always_null
-local-zone: "hisp.in." always_null
 local-zone: "hispidtux.com." always_null
 local-zone: "hissharppremiere.com." always_null
 local-zone: "histats.com." always_null
@@ -27598,7 +27588,6 @@ local-zone: "jkn05310loi.com." always_null
 local-zone: "jkn05311loi.com." always_null
 local-zone: "jkntebxbvq.com." always_null
 local-zone: "jkobiwamdlri.in." always_null
-local-zone: "jkpes.com." always_null
 local-zone: "jkpzthxjt.com." always_null
 local-zone: "jkqiweqrxsieb.website." always_null
 local-zone: "jkrquetufcr.com." always_null
@@ -27732,7 +27721,6 @@ local-zone: "jolrfeqxyavvj.site." always_null
 local-zone: "jolugubqlnjce.site." always_null
 local-zone: "jombfyktowaqp.space." always_null
 local-zone: "jomistress.com." always_null
-local-zone: "jomonhoaxee.cfd." always_null
 local-zone: "jomphoelubekg.site." always_null
 local-zone: "joogaipseed.net." always_null
 local-zone: "joograika.xyz." always_null
@@ -28308,7 +28296,6 @@ local-zone: "k2o2ls46.xyz." always_null
 local-zone: "k3bm5qrgx7h3krx.cfd." always_null
 local-zone: "k3on.com." always_null
 local-zone: "k55p9ka2.de." always_null
-local-zone: "k587hwf13i24pzrbichg4lbym.rest." always_null
 local-zone: "k5ob0kmh.xyz." always_null
 local-zone: "k5w06v2yzh.com." always_null
 local-zone: "k5zoom.com." always_null
@@ -31374,7 +31361,6 @@ local-zone: "lustreperspiration.com." always_null
 local-zone: "lustslate.com." always_null
 local-zone: "lustygg.com." always_null
 local-zone: "lusupodum.com." always_null
-local-zone: "luujhia.com." always_null
 local-zone: "luuming.com." always_null
 local-zone: "luuspdbnxvyjs.site." always_null
 local-zone: "luwjcqbkeeeni.site." always_null
@@ -35698,7 +35684,6 @@ local-zone: "ocfzcwlruvdwg.website." always_null
 local-zone: "ochdbjgbkommn.website." always_null
 local-zone: "ocheeglouzo.com." always_null
 local-zone: "ocijnhmnvjsdq.com." always_null
-local-zone: "ocimummckay.shop." always_null
 local-zone: "ocinzfdyslxja.online." always_null
 local-zone: "ociurwibnklqw.online." always_null
 local-zone: "ocivocakufslc.site." always_null
@@ -36415,7 +36400,6 @@ local-zone: "oopsiksaicki.com." always_null
 local-zone: "oopursie.com." always_null
 local-zone: "ooqtjsubfcppe.life." always_null
 local-zone: "ooqvye17t.com." always_null
-local-zone: "ooralisdecimagranes.cfd." always_null
 local-zone: "oorljoimmwspw.website." always_null
 local-zone: "oosbocswffckr.website." always_null
 local-zone: "oostotsu.com." always_null
@@ -36447,7 +36431,6 @@ local-zone: "opdvzscgsotag.site." always_null
 local-zone: "opeahmnyx.com." always_null
 local-zone: "opealleven.com." always_null
 local-zone: "opeanresultanc.com." always_null
-local-zone: "opeluundim.qpon." always_null
 local-zone: "open-analytics.hrw.org." always_null
 local-zone: "open-set-api.shenshiads.com." always_null
 local-zone: "open.e.kuaishou.cn." always_null
@@ -38218,7 +38201,6 @@ local-zone: "pingma.qq.com." always_null
 local-zone: "pings.vidpulse.com." always_null
 local-zone: "pingtas.qq.com." always_null
 local-zone: "pinkingjay.shop." always_null
-local-zone: "pinkishbidden.qpon." always_null
 local-zone: "pinkkeelsynchronize.com." always_null
 local-zone: "pinklabel.com." always_null
 local-zone: "pinkleo.pro." always_null
@@ -43799,6 +43781,7 @@ local-zone: "s.freepornsex.online." always_null
 local-zone: "s.frida.vse42.ru." always_null
 local-zone: "s.hellporno.buzz." always_null
 local-zone: "s.hhyggy.com." always_null
+local-zone: "s.hisp.in." always_null
 local-zone: "s.hkartg.com." always_null
 local-zone: "s.homedy.com." always_null
 local-zone: "s.huispol.com." always_null
@@ -49898,6 +49881,7 @@ local-zone: "tq-eu.aasedformed-d.online." always_null
 local-zone: "tq-eu.aasedformed-e.online." always_null
 local-zone: "tq-eu.basedformed-a.online." always_null
 local-zone: "tq-eu.basedformed-c.online." always_null
+local-zone: "tq-eu.bfoprtc-a.online." always_null
 local-zone: "tq-eu.bocdos-4.online." always_null
 local-zone: "tq-eu.bodsxplc.online." always_null
 local-zone: "tq-eu.cjhdc.online." always_null
@@ -51924,7 +51908,6 @@ local-zone: "umyyjgqyajxzu.online." always_null
 local-zone: "umzkjponcxpvn.online." always_null
 local-zone: "un.kumparan.com." always_null
 local-zone: "un1.lawyernet.cn." always_null
-local-zone: "un8hlx.com." always_null
 local-zone: "unablewhollyold.com." always_null
 local-zone: "unacceptabledemand.pro." always_null
 local-zone: "unacceptableheavy.pro." always_null
@@ -55661,7 +55644,6 @@ local-zone: "wpnoauvkm.com." always_null
 local-zone: "wpnxiswpuyrfn.icu." always_null
 local-zone: "wprdyqsmmmp.com." always_null
 local-zone: "wpshsdk.com." always_null
-local-zone: "wpsxwkz.com." always_null
 local-zone: "wptcd.com." always_null
 local-zone: "wpu.sh." always_null
 local-zone: "wpush.org." always_null
@@ -56562,6 +56544,7 @@ local-zone: "xml-eu-v4.basedformed-b.online." always_null
 local-zone: "xml-eu-v4.basedformed-c.online." always_null
 local-zone: "xml-eu-v4.basedformed-d.online." always_null
 local-zone: "xml-eu-v4.basedformed-e.online." always_null
+local-zone: "xml-eu-v4.bfoprtc-a.online." always_null
 local-zone: "xml-eu-v4.bid4advertising.com." always_null
 local-zone: "xml-eu-v4.bidargo.com." always_null
 local-zone: "xml-eu-v4.blasti.download." always_null
@@ -56753,6 +56736,7 @@ local-zone: "xml-v4.basedformed-b.online." always_null
 local-zone: "xml-v4.basedformed-c.online." always_null
 local-zone: "xml-v4.basedformed-d.online." always_null
 local-zone: "xml-v4.basedformed-e.online." always_null
+local-zone: "xml-v4.bfoprtc-a.online." always_null
 local-zone: "xml-v4.bid4advertising.com." always_null
 local-zone: "xml-v4.bidargo.com." always_null
 local-zone: "xml-v4.blasti.download." always_null
@@ -56911,6 +56895,7 @@ local-zone: "xml.basedformed-c.online." always_null
 local-zone: "xml.basedformed-d.online." always_null
 local-zone: "xml.basedformed-e.online." always_null
 local-zone: "xml.bcnmonetize.com." always_null
+local-zone: "xml.bfoprtc-a.online." always_null
 local-zone: "xml.bid-emostbe.com." always_null
 local-zone: "xml.bid4advertising.com." always_null
 local-zone: "xml.bidiology.com." always_null
